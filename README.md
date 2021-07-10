@@ -1,17 +1,104 @@
-# Gama Academy :)
-## Template Node FullJS
+<h1 align="center">Projeto Gama Academy - Módulo de Boas Práticas
+	<br/>
+</h1>
 
-Para iniciar o projeto:
-`git clone https://github.com/mrdouglasmorais/template-node-fulljs`
+[![Author](https://img.shields.io/badge/author-LeoMSSilva-blue?style=flat-square)](https://github.com/LeoMSSilva)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)](https://github.com/LeoMSSilva)
+[![Languages](https://img.shields.io/github/languages/count/LeoMSSilva/gamaAcademyBoasPraticas?color=blue&style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LeoMSSilva/gamaAcademyBoasPraticas?color=blue&style=flat-square)](https://github.com/LeoMSSilva/gamaAcademyBoasPraticas/stargazers)
+[![Forks](https://img.shields.io/github/forks/LeoMSSilva/gamaAcademyBoasPraticas?color=blue&style=flat-square)](https://github.com/LeoMSSilva/gamaAcademyBoasPraticas/network/members)
+[![Contributors](https://img.shields.io/github/contributors/LeoMSSilva/gamaAcademyBoasPraticas?color=blue&style=flat-square)](https://github.com/LeoMSSilva/gamaAcademyBoasPraticas/graphs/contributors)
 
-Para instalar as dependências:
-`npm i`
+---
 
-Para iniciar em modo de desenvolvimento:
-`npm start`
+Projeto online: [Click](https://gama-academy-boas-praticas.vercel.app/)
 
-## Aconselhado ter instalado NODEJS versão 14.x em diante.
+---
 
-Para instalar o node [clique aqui](https://nodejs.org/en/)
+# :pushpin: Table of Contents
 
-## Professor Douglas Morais
+- :house: [About](#about)
+- :dart: [Installation](#Installation)
+  - :gear: [Install dependencies](##Install_dependencies)
+  - :rocket: [Getting Started](##Getting_Started)
+- :computer: [Techs](#Techs)
+- :bust_in_silhouette: [Authors](#Authors)
+- :handshake: [Contributing](#Contributing)
+
+---
+
+# :house: About
+
+This project was developed with **NodeJs** and using **JavaScript**.
+Focus on best development practices.
+
+---
+
+# :dart: Installation
+
+**First you need to install:**
+
+- [Node.js](https://pt-br.nodejs.org/) (required)
+- [Yarn](https://yarnpkg.com/) (optional)
+
+  **Then in order, clone the project.**
+
+By HTTPS, running this command:
+
+```bash
+  git clone https://github.com/LeoMSSilva/gamaAcademyBoasPraticas.git
+```
+
+Or by ssh, running this command:
+
+```bash
+  git clone git@github.com:LeoMSSilva/gamaAcademyBoasPraticas.git
+```
+
+SSH is a secure protocol, but you need to register a key ssh in your github before.
+
+## :hammer_and_wrench: Install dependencies
+
+```bash
+  yarn
+```
+
+or
+
+```bash
+  yarn install
+```
+
+## :rocket: Getting Started
+
+```bash
+  yarn start
+```
+
+---
+
+# :computer: Techs
+
+- JavaScript
+- NodeJs
+- Sass
+
+---
+
+# :bust_in_silhouette: Authors
+
+**Douglas Morais**
+
+- Github: [@mrdouglasmorais](https://github.com/mrdouglasmorais)
+- LinkedIn: [@douglasmoraisdev](https://linkedin.com/in/LeoMSSilva)
+
+**LeoMSSilva**
+
+- Github: [@LeoMSSilva](https://github.com/LeoMSSilva)
+- LinkedIn: [@LeoMSSilva](https://linkedin.com/in/LeoMSSilva)
+
+---
+
+# :handshake: Contributing
+
+Contributions, issues and feature requests are welcome! Feel free to **file a new issue** on the [Gama Academy Boas Praticas](https://github.com/LeoMSSilva/gamaAcademyBoasPraticas/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!

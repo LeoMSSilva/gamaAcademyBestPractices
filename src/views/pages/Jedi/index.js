@@ -1,10 +1,10 @@
-let Home = {
+let Jedi = {
   is_private: false,
 
   render: async () => {
       let view = `
           <div>
-            <h1>Home</div>
+            <h2>Caro Jedi, bem vindo a ordem.</h2>
           </div>
       `;
 
@@ -14,4 +14,4 @@ let Home = {
   after_render: async () => {}
 }
 
-export default Home;
+export default Jedi;

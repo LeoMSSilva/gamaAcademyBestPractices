@@ -1,4 +1,88 @@
-*{
+$backgroundColorBlack: #000;
+$fontColorWhite: #fff;
+$fontFamily: "Roboto", sans-serif;
+
+* {
   margin: 0;
   padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: $backgroundColorBlack;
+  color: $fontColorWhite;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: $fontFamily;
+}
+
+.container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.effect-img {
+  transition: 0.3s;
+
+  &:hover {
+    transform: scale(1.2);
+  }
+}
+
+.block-center {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.block-section {
+  display: block;
+}
+
+.main-left {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  width: 10%;
+
+  & img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.footer-contain {
+  margin: calc(10px - 60px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  & img {
+    height: 190px;
+    width: auto;
+  }
+}
+
+.error-default {
+  & h1,
+  h2,
+  h3,
+  p {
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  & img {
+    height: 190px;
+    width: auto;
+    margin: 0 calc(50% - 190px / 2);
+  }
 }
