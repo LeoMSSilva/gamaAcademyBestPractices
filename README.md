@@ -11,7 +11,7 @@
 
 ---
 
-Projeto online: [Click](https://gama-academy-boas-praticas.vercel.app/)
+## Hosted on: [click](https://gama-academy-boas-praticas.vercel.app) :eyes:
 
 ---
 
