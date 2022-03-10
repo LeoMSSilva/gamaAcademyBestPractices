@@ -17,13 +17,13 @@ Projeto online: [Click](https://gama-academy-boas-praticas.vercel.app/)
 
 # :pushpin: Table of Contents
 
-- :house: [About](#about)
-- :dart: [Installation](#Installation)
-  - :gear: [Install dependencies](##Install_dependencies)
-  - :rocket: [Getting Started](##Getting_Started)
-- :computer: [Techs](#Techs)
-- :bust_in_silhouette: [Authors](#Authors)
-- :handshake: [Contributing](#Contributing)
+- :house: [About](#house-about)
+- :dart: [Installation](#dart-installation)
+  - :gear: [Install dependencies](#hammer_and_wrench-install-dependencies)
+  - :rocket: [Getting started](#rocket-getting-started)
+- :computer: [Techs](#computer-techs)
+- :bust_in_silhouette: [Authors](#bust_in_silhouette-authors)
+- :handshake: [Contributing](#handshake-contributing)
 
 ---
 
