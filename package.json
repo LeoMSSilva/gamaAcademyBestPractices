@@ -12,7 +12,7 @@
   "author": "Douglas Morais",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.7.4",
+    "axios": "^1.8.2",
     "clean-webpack-plugin": "^4.0.0",
     "node-sass": "^8.0.0",
     "sweetalert2": "^11.6.9",
